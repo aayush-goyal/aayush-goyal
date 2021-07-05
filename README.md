@@ -10,7 +10,7 @@ I am Aayush Goyal from India 🇮🇳.
 
 😄 I am currently the founder and CEO of [deriva](https://deriva.xyz). A FinTech start-up trying to change finance is thought of.<br>
 👋🏼 Please consider checking out our website and if you are interested to work with us, please see open positions @ [deriva - Careers](https://deriva.xyz/careers).<br>
-💰 We are also looking for raising funds and if you want to be an early-stage investor, please connect with over LinkedIn here.
+💰 We are also looking for raising funds and if you want to be an early-stage investor, please connect with over LinkedIn [here][3].
 
 🚀 Our first product [tallileo](https://tallileo.com) is one app you need for all personal finance needs.<br>
 📱 Join our BETA program by visiting the link [tallileo - BETA Waitlist](forms.gle/dhQyezxALKcZ6BwUA)<br>
