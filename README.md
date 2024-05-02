@@ -14,8 +14,8 @@ I am Aayush Goyal from India 🇮🇳.
 **Back-end**: • Express.js (Node.js) • REST APIs • GraphQL<br />
 **Library**: • react-query • zustand • Browser APIs • ESLint<br />
 **DBs**: • MongoDB • Cloud Firestore<br />
-**Cloud**: GCP, Firebase<br />
-**IDEs**: VSCode, IntelliJ IDEA <br />
+**Cloud**: • GCP • Firebase<br />
+**IDEs**: • VSCode • IntelliJ IDEA <br />
 **Tools**: • Git • GitHub • Figma • GitHub Actions • Miro • Retool <br />
 
 🏆 In my tenure as the founder of deriva, I made democratizing personal finance for Indians my end goal. I honed my product skills by teaching myself all the essential skills like UX Research, PDLC, and Stakeholder Management, and leveraging existing skills in Agile, SDE, and Leadership to deliver 2 MVPs (one with pivot). This was also when I truly learned the art of networking and used it to my advantage. My major achievements were raising funds from friends & family, and conducting thorough market and user research to understand the market space and business.
@@ -33,12 +33,9 @@ I am Aayush Goyal from India 🇮🇳.
 <!-- 💰 We are also looking for raising funds and if you want to be an early-stage investor, please connect with over LinkedIn [here][3]. -->
 
 🚀 Our first product [tallileo](https://tallileo.com) is one app you need for all personal finance needs.<br>
-
-<!-- ## Other Works
-
-👨🏻‍💻 I am also a full-stack developer primarily working in the Android and Web (React) space. I recently developed an interest in designing and have been teaching myself UI/UX and Graphics designing since last year. Apart from this, the business world entices me. I love the field so much that everything involved from fundraising to IPOs, product-market fit to marketing, I want to learn and grow in each one of them. -->
-
-<!-- 🥷🏼 I am also a freelancer @ [Akhada](https://akhada.co/). I majorly work on their website designs and React front-end development. Akhada is one-stop solution for learning anything new. Do checkout our work. -->
+Also check out our other products<br />
+1. [Khelo](https://khelo.app)
+2. [NomNom](https://nomnom.life)
 
 ## Personal
 
@@ -47,9 +44,9 @@ I am Aayush Goyal from India 🇮🇳.
 
 🚨 Views expressed are my own and do not reflect those of deriva Inc, its management, employees, customers, or any other affiliated party.
 
-You can also DM me if you want to:
-✅ discuss ideas and share knowledge.
-✅ have a friendly tennis/badminton/TT match.
+You can also DM me if you want to:<br />
+✅ discuss ideas and share knowledge.<br />
+✅ have a friendly tennis/badminton/TT match.<br />
 Use my calendly link: https://calendly.com/aayushgoyal/one-on-one
 
 ✉️ Seeking new opportunities to further leverage my skill set, expand my learning horizons, and collaborate with an exceptional team in crafting stellar products that delight users. Reach out at aayushgoyal.mps@gmail.com.
