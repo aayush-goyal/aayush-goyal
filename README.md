@@ -1,22 +1,25 @@
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 [![tallileo Cover Image](https://storage.googleapis.com/aayushgoyal-web_images_public/tallileo_cover_image.png)][1]
 
 Hi 👋🏼 <br />
 I am Aayush Goyal from India 🇮🇳.
 
-⏱ With a solid foundation of over 5 years in the dynamic tech industry, predominantly within the FinTech domain, I ventured into the realm of product management, steering my journey full-time with my start-up in January 2021.
+⏱ With a solid foundation of almost 6 years in the dynamic tech industry, predominantly within the FinTech domain, I ventured into the realm of product management, steering my journey full-time with my start-up in January 2021.
 
 🎓 Graduating from NIT Srinagar has taught me a few important life skills, notably resilience amidst challenges. I have applied this same principle throughout my career so far.
 
 🏗️💻 I have worked and experience on the following technologies:<br />
-**Languages**: • TypeScript • JavaScript (ES6) • Dart • Kotlin • HTML5 • CSS3 • Java<br />
-**Front-end**: • Next.js (React.js) • Flutter • SASS • CSS Modules • Styled Components • styled-jsx<br />
-**Resting**: • Jest • Testing Library • Playwright <br />
-**Back-end**: • Express.js (Node.js) • REST APIs • GraphQL<br />
-**Library**: • react-query • zustand • Browser APIs • ESLint<br />
-**DBs**: • MongoDB • Cloud Firestore<br />
-**Cloud**: • GCP • Firebase<br />
-**IDEs**: • VSCode • IntelliJ IDEA <br />
-**Tools**: • Git • GitHub • Figma • GitHub Actions • Miro • Retool <br />
+**Languages**: • <i class="devicon-typescript-plain colored"></i> TypeScript • <i class="devicon-javascript-plain colored"></i> JavaScript (ES6) • <i class="devicon-dart-plain colored"></i> Dart • <i class="devicon-kotlin-plain colored"></i> Kotlin • <i class="devicon-html5-plain colored"></i>HTML5 • <i class="devicon-css3-plain colored"></i> CSS3 • <i class="devicon-java-plain colored"></i> Java<br />
+**Front-end**: • <i class="devicon-nextjs-plain colored"></i> Next.js • <i class="devicon-react-original colored"></i> React.js • <i class="devicon-flutter-plain colored"></i> Flutter • <i class="devicon-sass-original colored"></i> SASS • CSS Modules • <i class="devicon-tailwindcss-original colored"></i> Tailwind CSS • Styled Components • styled-jsx<br />
+**Resting**: • <i class="devicon-jest-plain colored"></i> Jest • Testing Library • <i class="devicon-playwright-plain colored"></i> Playwright <br />
+**Back-end**: • <i class="devicon-express-original colored"></i> Express.js • <i class="devicon-nodejs-plain colored"></i> Node.js • REST APIs • <i class="devicon-graphql-plain colored"></i> GraphQL<br />
+**Library**: • react-query • zustand • Browser APIs • <i class="devicon-eslint-plain colored"></i> ESLint<br />
+**DBs**: • <i class="devicon-mongodb-plain colored"></i> MongoDB • <i class="devicon-firebase-plain colored"></i> Cloud Firestore • <i class="devicon-postgresql-plain colored"></i> PostgreSQL<br />
+**Cloud**: • <i class="devicon-googlecloud-plain colored"></i> GCP • <i class="devicon-firebase-plain colored"></i>Firebase<br />
+**IDEs**: • <i class="devicon-vscode-plain colored"></i> VSCode • <i class="devicon-intellij-plain colored"></i> IntelliJ IDEA <br />
+**Tools**: • <i class="devicon-git-plain colored"></i> Git • <i class="devicon-github-original colored"></i> GitHub • <i class="devicon-figma-plain colored"></i> Figma • <i class="devicon-githubactions-plain colored"></i> GitHub Actions • Miro • Retool <br />
 
 🏆 In my tenure as the founder of deriva, I made democratizing personal finance for Indians my end goal. I honed my product skills by teaching myself all the essential skills like UX Research, PDLC, and Stakeholder Management, and leveraging existing skills in Agile, SDE, and Leadership to deliver 2 MVPs (one with pivot). This was also when I truly learned the art of networking and used it to my advantage. My major achievements were raising funds from friends & family, and conducting thorough market and user research to understand the market space and business.
 
@@ -35,7 +38,8 @@ I am Aayush Goyal from India 🇮🇳.
 🚀 Our first product [tallileo](https://tallileo.com) is one app you need for all personal finance needs.<br>
 Also check out our other products<br />
 1. [Khelo](https://khelo.app)
-2. [NomNom](https://nomnom.life)
+2. [Prepped](https://prepped.cc)
+3. [NomNom](https://nomnom.life)
 
 ## Personal
 
