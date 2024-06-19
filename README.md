@@ -25,7 +25,7 @@ I am Aayush Goyal from India 🇮🇳.
 
 🌟 Then I joined 50Fin as a founding member. It was truly transformative. I wrote code, hired initial founding team members, collaborated on the initial product vision, and delivered an MVP with the product team in under 4 months. Additionally, I oversaw marketing to increase brand awareness, and stocked pantry items!
 
-🛠️ After taking a career break, I joined Pickright as the sole Product Manager. Leading a team of 14 members was challenging but we successfully delivered 30 features in under 5 months which 1. scaled the product to handle 1 million users, 2. made our product designs coherent and easy for users, 3. reduced daily bugs count by 70% and made the product stable, 4. delivered a few internal tools to collaborate with cross-functional teams, and 5. improved team efficiency by 20%.
+🛠️ After taking a career break, I joined Pickright as the sole Technical Project Manager. Leading a team of 14 members was challenging but we successfully delivered 30 features in under 5 months which 1. scaled the product to handle 1 million users, 2. made our product designs coherent and easy for users, 3. reduced daily bugs count by 70% and made the product stable, 4. delivered a few internal tools to collaborate with cross-functional teams, and 5. improved team efficiency by 20%.
 
 📚 In my downtime, I indulge in diverse activities - whether absorbing knowledge through reading, engaging in sports, crafting DIY projects, or playing bartender for friends and family.
 
