@@ -101,39 +101,54 @@ Use my calendly link: https://calendly.com/aayushgoyal/one-on-one
 <!-- [![wakatime](https://wakatime.com/badge/user/13fde520-c1e3-4c7c-b538-6905d8c3ea6a.svg)](https://wakatime.com/@13fde520-c1e3-4c7c-b538-6905d8c3ea6a) -->
 
 <!--START_SECTION:waka-->
-## All-time Stats
-<!-- Languages -->
-<details>
-  <summary>
-    <h3>Languages</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
-<!-- Frameworks -->
-<details>
-  <summary>
-    <h3>Frameworks</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
-<!-- Projects -->
-<details>
-  <summary>
-    <h3>Projects</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C702%20hrs%207%20mins-blue)
 
-I am an early
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.2%20million%20lines%20of%20code-blue)
 
-My most productive days
+**🐱 My GitHub Data** 
 
-Languages
+> 📦 98.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 562 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 4 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
-Show Editors
+```text
+🌞 Morning                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+🌆 Daytime                765 commits         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+🌃 Evening                1202 commits        ███████████░░░░░░░░░░░░░░   42.10 % 
+🌙 Night                  797 commits         ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+```
 
-Mostly code in
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               12 hrs 9 mins       ████████████████░░░░░░░░░   64.74 % 
+JSON                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+MDX                      1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+
+🐱‍💻 Projects: 
+aayushgoyal.in           7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
+khelo-server             4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+dsa-js-ts                2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+nextui                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+tallileo-server          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+```
+
+
+ Last Updated on 16/07/2024 16:11:12 UTC
 <!--END_SECTION:waka-->
 
 ## &#x1f4c8; My GitHub Stats
