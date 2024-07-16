@@ -100,8 +100,7 @@ Use my calendly link: https://calendly.com/aayushgoyal/one-on-one
 # 🧑🏻‍💻 Some Coding Stats
 <!-- [![wakatime](https://wakatime.com/badge/user/13fde520-c1e3-4c7c-b538-6905d8c3ea6a.svg)](https://wakatime.com/@13fde520-c1e3-4c7c-b538-6905d8c3ea6a) -->
 
-<!--START_SECTION:SHOW_LINES_OF_CODE-->
-<!--END_SECTION:SHOW_LINES_OF_CODE-->
+<!--START_SECTION:waka-->
 ## All-time Stats
 <!-- Languages -->
 <details>
@@ -109,52 +108,6 @@ Use my calendly link: https://calendly.com/aayushgoyal/one-on-one
     <h3>Languages</h3>
   </summary>
   <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
-<!-- Frameworks -->
-<details>
-  <summary>
-    <h3>Frameworks</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
-<!-- Projects -->
-<details>
-  <summary>
-    <h3>Projects</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
-
-## This-month Stats
-<!-- Languages -->
-<details>
-  <summary>
-    <h3>Languages</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/13eaab53-fb91-407f-b957-d4ae5a150995.svg" />
-</details>
-<!-- Frameworks -->
-<details>
-  <summary>
-    <h3>Frameworks</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
-<!-- Projects -->
-<details>
-  <summary>
-    <h3>Projects</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/518df051-2e25-4a24-9b63-6dad635ec638.svg" />
-</details>
-
-## This-week Stats
-<!-- Languages -->
-<details>
-  <summary>
-    <h3>Languages</h3>
-  </summary>
-  <img src="https://wakatime.com/share/@aayushgoyalmps/04024086-2e68-43f0-9ddc-345a679cf31d.svg" />
 </details>
 <!-- Frameworks -->
 <details>
@@ -181,7 +134,7 @@ Show Editors
 
 Mostly code in
 
-
+<!--END_SECTION:waka-->
 
 ## &#x1f4c8; My GitHub Stats
 
