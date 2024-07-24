@@ -101,54 +101,20 @@ Use my calendly link: https://calendly.com/aayushgoyal/one-on-one
 <!-- [![wakatime](https://wakatime.com/badge/user/13fde520-c1e3-4c7c-b538-6905d8c3ea6a.svg)](https://wakatime.com/@13fde520-c1e3-4c7c-b538-6905d8c3ea6a) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C597%20hrs%2044%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 100.8 kB Used in GitHub's Storage 
  > 
-> 🏆 598 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-🌆 Daytime                781 commits         ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-🌃 Evening                1226 commits        ███████████░░░░░░░░░░░░░░   42.10 % 
-🌙 Night                  814 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               6 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.72 % 
-Other                    3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-JavaScript               3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-HTTP Request             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-
-🐱‍💻 Projects: 
-wakawaka                 6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.48 % 
-dsa-js-ts                4 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-aayush-goyal             2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-aayushgoyal.in           1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Unknown Project          1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-```
-
-
- Last Updated on 23/07/2024 18:42:42 UTC
+ Last Updated on 24/07/2024 18:45:23 UTC
 <!--END_SECTION:waka-->
 
 ## &#x1f4c8; My GitHub Stats
