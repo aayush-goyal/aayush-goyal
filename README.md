@@ -101,11 +101,13 @@ Use my calendly link: https://calendly.com/aayushgoyal/one-on-one
 <!-- [![wakatime](https://wakatime.com/badge/user/13fde520-c1e3-4c7c-b538-6905d8c3ea6a.svg)](https://wakatime.com/@13fde520-c1e3-4c7c-b538-6905d8c3ea6a) -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C605%20hrs%2034%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 100.8 kB Used in GitHub's Storage 
+> 📦 101.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,8 +115,38 @@ Use my calendly link: https://calendly.com/aayushgoyal/one-on-one
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2024 18:45:23 UTC
+```text
+🌞 Morning                91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+🌆 Daytime                806 commits         ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+🌃 Evening                1227 commits        ██████████░░░░░░░░░░░░░░░   41.71 % 
+🌙 Night                  818 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               8 hrs 7 mins        ████████████░░░░░░░░░░░░░   48.82 % 
+Other                    2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+YAML                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+
+🐱‍💻 Projects: 
+wakawaka                 8 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.58 % 
+Unknown Project          2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+wakawaka-action          1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+js-coding-ques           1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+dsa-js-ts                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+```
+
+
+ Last Updated on 25/07/2024 18:42:30 UTC
 <!--END_SECTION:waka-->
 
 ## &#x1f4c8; My GitHub Stats
