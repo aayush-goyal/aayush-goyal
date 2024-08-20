@@ -6,6 +6,10 @@
 Hi, there, 👋🏼 <br />
 I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 
+<!-- WAKAWAKA_START -->
+<!-- WAKAWAKA_CONFIG__ST=0&CT=1&DT=0&R=0 -->
+<!-- WAKAWAKA_END -->
+
 ### Listen to my some music first 🎷
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yqcdohelabbyqn9oliqljy5z6)
 
