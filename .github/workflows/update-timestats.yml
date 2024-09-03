@@ -1,9 +1,8 @@
 name: WakaTime Readme
 
 on:
-  [push]
-  # schedule:
-  #   - cron: "30 18 * * *"
+  schedule:
+    - cron: "30 18 * * *"
   # workflow_dispatch:
 
 jobs:
