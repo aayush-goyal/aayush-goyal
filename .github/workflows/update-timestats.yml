@@ -3,6 +3,9 @@ name: WakaTime Readme
 on:
   schedule:
     - cron: "30 18 * * *"
+  push: 
+    branches:
+      - '**'
   # workflow_dispatch:
 
 jobs:
@@ -45,3 +48,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_WORKSPACE: ${{ github.workspace }}
           WAKA_AUTH_TOKEN: ${{ secrets.WAKATIME_API_KEY }}
+          WAKA_USERNAME: "aayushgoyalmps"
