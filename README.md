@@ -40,6 +40,7 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__ST=1&CT=2&DT=0&R=0 -->
+<img src="./img/img_categories_2_0_0.svg" alt="WakaTime chart" />
 <!-- WAKAWAKA_END -->
 
 ## 💼 Career So Far
