@@ -14,24 +14,24 @@
           </style>
         <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 600">
 <rect width="800" height="600" x="0" y="0" fill="none"></rect>
-<path d="M80.5 60L80.5 530" fill="transparent" stroke="#E0E6F1" class="zr2-cls-27"></path>
-<path d="M208.5 60L208.5 530" fill="transparent" stroke="#E0E6F1" class="zr2-cls-27"></path>
-<path d="M336.5 60L336.5 530" fill="transparent" stroke="#E0E6F1" class="zr2-cls-27"></path>
-<path d="M464.5 60L464.5 530" fill="transparent" stroke="#E0E6F1" class="zr2-cls-27"></path>
-<path d="M592.5 60L592.5 530" fill="transparent" stroke="#E0E6F1" class="zr2-cls-27"></path>
-<path d="M720.5 60L720.5 530" fill="transparent" stroke="#E0E6F1" class="zr2-cls-27"></path>
-<path d="M80.5 530L80.5 60" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr2-cls-27"></path>
-<path d="M80 530.5L75 530.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 483.5L75 483.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 436.5L75 436.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 389.5L75 389.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 342.5L75 342.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 295.5L75 295.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 248.5L75 248.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 201.5L75 201.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 154.5L75 154.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 107.5L75 107.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
-<path d="M80 60.5L75 60.5" fill="transparent" stroke="#6E7079" class="zr2-cls-27"></path>
+<path d="M80.5 60L80.5 530" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M208.5 60L208.5 530" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M336.5 60L336.5 530" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M464.5 60L464.5 530" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M592.5 60L592.5 530" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M720.5 60L720.5 530" fill="transparent" stroke="#E0E6F1" class="zr0-cls-0"></path>
+<path d="M80.5 530L80.5 60" fill="transparent" stroke="#6E7079" stroke-linecap="round" class="zr0-cls-0"></path>
+<path d="M80 530.5L75 530.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 483.5L75 483.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 436.5L75 436.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 389.5L75 389.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 342.5L75 342.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 295.5L75 295.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 248.5L75 248.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 201.5L75 201.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 154.5L75 154.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 107.5L75 107.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
+<path d="M80 60.5L75 60.5" fill="transparent" stroke="#6E7079" class="zr0-cls-0"></path>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" transform="translate(72 506.5)" fill="#6E7079">TypeScript</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" transform="translate(72 459.5)" fill="#6E7079">Kotlin</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" transform="translate(72 412.5)" fill="#6E7079">Java</text>
@@ -48,16 +48,16 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="6" transform="translate(464 538)" fill="#6E7079">15</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="6" transform="translate(592 538)" fill="#6E7079">20</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="6" transform="translate(720 538)" fill="#6E7079">25</text>
-<path d="M80 490.3l544.3 0l0 32.4l-544.3 0Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr2-cls-28 zr2-cls-29"></path>
-<path d="M80 443.3l469.2 0l0 32.4l-469.2 0Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr2-cls-30 zr2-cls-31"></path>
-<path d="M80 396.3l401.7 0l0 32.4l-401.7 0Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr2-cls-32 zr2-cls-33"></path>
-<path d="M80 349.3l329.7 0l0 32.4l-329.7 0Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr2-cls-34 zr2-cls-35"></path>
-<path d="M80 302.3l294.1 0l0 32.4l-294.1 0Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr2-cls-36 zr2-cls-37"></path>
-<path d="M80 255.3l103.2 0l0 32.4l-103.2 0Z" fill="#FCF4D3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr2-cls-38 zr2-cls-39"></path>
-<path d="M80 208.3l62.2 0l0 32.4l-62.2 0Z" fill="#F2D2BA" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr2-cls-40 zr2-cls-41"></path>
-<path d="M80 161.3l51.5 0l0 32.4l-51.5 0Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr2-cls-42 zr2-cls-43"></path>
-<path d="M80 114.3l49.4 0l0 32.4l-49.4 0Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr2-cls-44 zr2-cls-45"></path>
-<path d="M80 67.3l47.6 0l0 32.4l-47.6 0Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr2-cls-46 zr2-cls-47"></path>
+<path d="M80 490.3l544.3 0l0 32.4l-544.3 0Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1 zr0-cls-2"></path>
+<path d="M80 443.3l469.2 0l0 32.4l-469.2 0Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-3 zr0-cls-4"></path>
+<path d="M80 396.3l401.7 0l0 32.4l-401.7 0Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-5 zr0-cls-6"></path>
+<path d="M80 349.3l329.7 0l0 32.4l-329.7 0Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-7 zr0-cls-8"></path>
+<path d="M80 302.3l294.1 0l0 32.4l-294.1 0Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-9 zr0-cls-10"></path>
+<path d="M80 255.3l103.2 0l0 32.4l-103.2 0Z" fill="#FCF4D3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-11 zr0-cls-12"></path>
+<path d="M80 208.3l62.2 0l0 32.4l-62.2 0Z" fill="#F2D2BA" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-13 zr0-cls-14"></path>
+<path d="M80 161.3l51.5 0l0 32.4l-51.5 0Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr0-cls-15 zr0-cls-16"></path>
+<path d="M80 114.3l49.4 0l0 32.4l-49.4 0Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr0-cls-17 zr0-cls-18"></path>
+<path d="M80 67.3l47.6 0l0 32.4l-47.6 0Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr0-cls-19 zr0-cls-20"></path>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(629.256 506.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">21.26</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(554.248 459.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">18.33</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(486.664 412.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">15.69</text>
@@ -69,80 +69,80 @@
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(134.408 130.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1.93</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(132.616 83.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1.86</text>
 <style ><![CDATA[
-.zr2-cls-27:hover {
+.zr0-cls-0:hover {
 pointer-events:none;
 }
-.zr2-cls-28 {
-animation:zr2-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-1 {
+animation:zr0-ani-0 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-29:hover {
+.zr0-cls-2:hover {
 cursor:pointer;
 fill:rgba(227,196,255,1);
 }
-.zr2-cls-30 {
-animation:zr2-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-3 {
+animation:zr0-ani-1 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-31:hover {
+.zr0-cls-4:hover {
 cursor:pointer;
 fill:rgba(213,214,255,1);
 }
-.zr2-cls-32 {
-animation:zr2-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-5 {
+animation:zr0-ani-2 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-33:hover {
+.zr0-cls-6:hover {
 cursor:pointer;
 fill:rgba(249,182,209,1);
 }
-.zr2-cls-34 {
-animation:zr2-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-7 {
+animation:zr0-ani-3 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-35:hover {
+.zr0-cls-8:hover {
 cursor:pointer;
 fill:rgba(207,247,255,1);
 }
-.zr2-cls-36 {
-animation:zr2-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-9 {
+animation:zr0-ani-4 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-37:hover {
+.zr0-cls-10:hover {
 cursor:pointer;
 fill:rgba(205,255,195,1);
 }
-.zr2-cls-38 {
-animation:zr2-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-11 {
+animation:zr0-ani-5 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-39:hover {
+.zr0-cls-12:hover {
 cursor:pointer;
 fill:rgba(255,255,232,1);
 }
-.zr2-cls-40 {
-animation:zr2-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-13 {
+animation:zr0-ani-6 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-41:hover {
+.zr0-cls-14:hover {
 cursor:pointer;
 fill:rgba(255,231,204,1);
 }
-.zr2-cls-42 {
-animation:zr2-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-15 {
+animation:zr0-ani-7 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-43:hover {
+.zr0-cls-16:hover {
 cursor:pointer;
 fill:rgba(255,233,183,1);
 }
-.zr2-cls-44 {
-animation:zr2-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-17 {
+animation:zr0-ani-8 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-45:hover {
+.zr0-cls-18:hover {
 cursor:pointer;
 fill:rgba(255,216,216,1);
 }
-.zr2-cls-46 {
-animation:zr2-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
+.zr0-cls-19 {
+animation:zr0-ani-9 1s cubic-bezier(0.65,0,0.35,1) both;
 }
-.zr2-cls-47:hover {
+.zr0-cls-20:hover {
 cursor:pointer;
 fill:rgba(232,232,232,1);
 }
-@keyframes zr2-ani-0 {
+@keyframes zr0-ani-0 {
 0% {
 d:path("M80 490.3l0 0l0 32.4l0 0Z");
 }
@@ -150,7 +150,7 @@ d:path("M80 490.3l0 0l0 32.4l0 0Z");
 d:path("M80 490.3l544.3 0l0 32.4l-544.3 0Z");
 }
 }
-@keyframes zr2-ani-1 {
+@keyframes zr0-ani-1 {
 0% {
 d:path("M80 443.3l0 0l0 32.4l0 0Z");
 }
@@ -158,7 +158,7 @@ d:path("M80 443.3l0 0l0 32.4l0 0Z");
 d:path("M80 443.3l469.2 0l0 32.4l-469.2 0Z");
 }
 }
-@keyframes zr2-ani-2 {
+@keyframes zr0-ani-2 {
 0% {
 d:path("M80 396.3l0 0l0 32.4l0 0Z");
 }
@@ -166,7 +166,7 @@ d:path("M80 396.3l0 0l0 32.4l0 0Z");
 d:path("M80 396.3l401.7 0l0 32.4l-401.7 0Z");
 }
 }
-@keyframes zr2-ani-3 {
+@keyframes zr0-ani-3 {
 0% {
 d:path("M80 349.3l0 0l0 32.4l0 0Z");
 }
@@ -174,7 +174,7 @@ d:path("M80 349.3l0 0l0 32.4l0 0Z");
 d:path("M80 349.3l329.7 0l0 32.4l-329.7 0Z");
 }
 }
-@keyframes zr2-ani-4 {
+@keyframes zr0-ani-4 {
 0% {
 d:path("M80 302.3l0 0l0 32.4l0 0Z");
 }
@@ -182,7 +182,7 @@ d:path("M80 302.3l0 0l0 32.4l0 0Z");
 d:path("M80 302.3l294.1 0l0 32.4l-294.1 0Z");
 }
 }
-@keyframes zr2-ani-5 {
+@keyframes zr0-ani-5 {
 0% {
 d:path("M80 255.3l0 0l0 32.4l0 0Z");
 }
@@ -190,7 +190,7 @@ d:path("M80 255.3l0 0l0 32.4l0 0Z");
 d:path("M80 255.3l103.2 0l0 32.4l-103.2 0Z");
 }
 }
-@keyframes zr2-ani-6 {
+@keyframes zr0-ani-6 {
 0% {
 d:path("M80 208.3l0 0l0 32.4l0 0Z");
 }
@@ -198,7 +198,7 @@ d:path("M80 208.3l0 0l0 32.4l0 0Z");
 d:path("M80 208.3l62.2 0l0 32.4l-62.2 0Z");
 }
 }
-@keyframes zr2-ani-7 {
+@keyframes zr0-ani-7 {
 0% {
 d:path("M80 161.3l0 0l0 32.4l0 0Z");
 }
@@ -206,7 +206,7 @@ d:path("M80 161.3l0 0l0 32.4l0 0Z");
 d:path("M80 161.3l51.5 0l0 32.4l-51.5 0Z");
 }
 }
-@keyframes zr2-ani-8 {
+@keyframes zr0-ani-8 {
 0% {
 d:path("M80 114.3l0 0l0 32.4l0 0Z");
 }
@@ -214,7 +214,7 @@ d:path("M80 114.3l0 0l0 32.4l0 0Z");
 d:path("M80 114.3l49.4 0l0 32.4l-49.4 0Z");
 }
 }
-@keyframes zr2-ani-9 {
+@keyframes zr0-ani-9 {
 0% {
 d:path("M80 67.3l0 0l0 32.4l0 0Z");
 }
