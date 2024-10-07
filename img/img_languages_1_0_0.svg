@@ -48,20 +48,20 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="6" transform="translate(464 538)" fill="#6E7079">15</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="6" transform="translate(592 538)" fill="#6E7079">20</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="6" transform="translate(720 538)" fill="#6E7079">25</text>
-<path d="M80 490.3l544.3 0l0 32.4l-544.3 0Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1 zr0-cls-2"></path>
-<path d="M80 443.3l469.2 0l0 32.4l-469.2 0Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-3 zr0-cls-4"></path>
+<path d="M80 490.3l544.5 0l0 32.4l-544.5 0Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-1 zr0-cls-2"></path>
+<path d="M80 443.3l469 0l0 32.4l-469 0Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" class="zr0-cls-3 zr0-cls-4"></path>
 <path d="M80 396.3l401.7 0l0 32.4l-401.7 0Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" class="zr0-cls-5 zr0-cls-6"></path>
-<path d="M80 349.3l329.7 0l0 32.4l-329.7 0Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-7 zr0-cls-8"></path>
+<path d="M80 349.3l329.5 0l0 32.4l-329.5 0Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" class="zr0-cls-7 zr0-cls-8"></path>
 <path d="M80 302.3l294.1 0l0 32.4l-294.1 0Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-9 zr0-cls-10"></path>
 <path d="M80 255.3l103.2 0l0 32.4l-103.2 0Z" fill="#FCF4D3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-11 zr0-cls-12"></path>
 <path d="M80 208.3l62.2 0l0 32.4l-62.2 0Z" fill="#F2D2BA" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-13 zr0-cls-14"></path>
 <path d="M80 161.3l51.5 0l0 32.4l-51.5 0Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr0-cls-15 zr0-cls-16"></path>
 <path d="M80 114.3l49.4 0l0 32.4l-49.4 0Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr0-cls-17 zr0-cls-18"></path>
 <path d="M80 67.3l47.6 0l0 32.4l-47.6 0Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr0-cls-19 zr0-cls-20"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(629.256 506.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">21.26</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(554.248 459.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">18.33</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(629.512 506.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">21.27</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(553.992 459.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">18.32</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(486.664 412.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">15.69</text>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(414.728 365.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">12.88</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(414.472 365.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">12.87</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(379.144 318.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">11.49</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(188.168 271.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">4.03</text>
 <text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" transform="translate(147.208 224.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2.43</text>
@@ -147,7 +147,7 @@ fill:rgba(232,232,232,1);
 d:path("M80 490.3l0 0l0 32.4l0 0Z");
 }
 100% {
-d:path("M80 490.3l544.3 0l0 32.4l-544.3 0Z");
+d:path("M80 490.3l544.5 0l0 32.4l-544.5 0Z");
 }
 }
 @keyframes zr0-ani-1 {
@@ -155,7 +155,7 @@ d:path("M80 490.3l544.3 0l0 32.4l-544.3 0Z");
 d:path("M80 443.3l0 0l0 32.4l0 0Z");
 }
 100% {
-d:path("M80 443.3l469.2 0l0 32.4l-469.2 0Z");
+d:path("M80 443.3l469 0l0 32.4l-469 0Z");
 }
 }
 @keyframes zr0-ani-2 {
@@ -171,7 +171,7 @@ d:path("M80 396.3l401.7 0l0 32.4l-401.7 0Z");
 d:path("M80 349.3l0 0l0 32.4l0 0Z");
 }
 100% {
-d:path("M80 349.3l329.7 0l0 32.4l-329.7 0Z");
+d:path("M80 349.3l329.5 0l0 32.4l-329.5 0Z");
 }
 }
 @keyframes zr0-ani-4 {
