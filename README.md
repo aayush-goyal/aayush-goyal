@@ -43,6 +43,11 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 <img src="./img/img_categories_2_0_0.svg" alt="WakaTime chart" />
 <!-- WAKAWAKA_END -->
 
+<!-- WAKAWAKA_START -->
+<!-- WAKAWAKA_CONFIG__ST=3&CT=3&DT=0&R=0 -->
+<!-- WAKAWAKA_END -->
+
+
 ## 💼 Career So Far
 🏆 In my tenure as the founder of deriva, I made democratizing personal finance for Indians my end goal. I honed my product skills by teaching myself all the essential skills like UX Research, PDLC, and Stakeholder Management, and leveraging existing skills in Agile, SDE, and Leadership to deliver 2 MVPs (one with pivot). This was also when I truly learned the art of networking and used it to my advantage. My major achievements were raising funds from friends & family, and conducting thorough market and user research to understand the market space and business.
 
