@@ -45,6 +45,7 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__ST=3&CT=3&DT=0&R=0 -->
+<img src="./img/img_os_3_0_0.svg" alt="WakaTime chart" />
 <!-- WAKAWAKA_END -->
 
 
