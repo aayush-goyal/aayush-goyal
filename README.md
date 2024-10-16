@@ -7,6 +7,10 @@ Hi, there, 👋🏼 <br />
 I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- WAKAWAKA_START -->
+<!-- WAKAWAKA_CONFIG__STATS_BEST_DAY -->
+<!-- WAKAWAKA_END -->
+
+<!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__ST=0&CT=0&DT=0&R=0 -->
 <img src="./img/img_languages_0_0_0.svg" alt="WakaTime chart" />
 <!-- WAKAWAKA_END -->
