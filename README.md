@@ -8,7 +8,6 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__STATS_BEST_DAY -->
-![badge](https://img.shields.io/badge/26%20Apr%202024-12%20hrs%2010%20mins-blue)
 <!-- WAKAWAKA_END -->
 
 <!-- WAKAWAKA_START -->
