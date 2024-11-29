@@ -13,7 +13,7 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__STATS_DAILY_AVG -->
-![badge](https://img.shields.io/badge/Daily%20Average-1%20hr%2051%20mins-blue)
+![badge](https://img.shields.io/badge/Daily%20Average-1%20hr%2050%20mins-blue)
 <!-- WAKAWAKA_END -->
 
 <!-- WAKAWAKA_START -->
