@@ -168,7 +168,7 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 **Daily Coding Average**
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__STATS_DAILY_AVG -->
-![badge](https://img.shields.io/badge/Daily%20Average-1%20hr%2051%20mins-blue)
+![badge](https://img.shields.io/badge/Daily%20Average-1%20hr%2050%20mins-blue)
 <!-- WAKAWAKA_END -->
 
 **Total Lines of Code**
@@ -187,13 +187,13 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 **Projects**
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__ST=4&CT=2&DT=0&R=0 -->
-<img src="./img/img_categories_2_0_0.svg" alt="WakaTime chart" />
+<img src="./img/img_projects_2_0_0.svg" alt="WakaTime chart" />
 <!-- WAKAWAKA_END -->
 
 **Editors**
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__ST=2&CT=4&DT=0&R=0 -->
-<img src="./img/img_os_3_0_0.svg" alt="WakaTime chart" />
+<img src="./img/img_editors_4_0_0.svg" alt="WakaTime chart" />
 <!-- WAKAWAKA_END -->
 
 ## &#x1f4c8; My GitHub Stats
