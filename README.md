@@ -196,6 +196,8 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 <img src="./img/img_editors_4_0_0.svg" alt="WakaTime chart" />
 <!-- WAKAWAKA_END -->
 
+**NOTE:** Charts generated with [WakaWaka - Action](https://github.com/marketplace/actions/wakawaka-action)
+
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/aayush-goyal/aayush-goyal">
