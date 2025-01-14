@@ -2,7 +2,7 @@
 <rect width="800" height="600" x="0" y="0" fill="none"></rect>
 <polyline points="484.7 290.3 499.7 289.4 514.7 289.4" fill="transparent" stroke="#CFB3E8" class="zr2-cls-43"></polyline>
 <polyline points="164 353.7 149.8 358.6 134.8 358.6" fill="transparent" stroke="#C2C3F0" class="zr2-cls-43"></polyline>
-<polyline points="260.4 146.1 149.4 218.7 149.4 218.7" fill="transparent" stroke="#E3A6BE" class="zr2-cls-43"></polyline>
+<polyline points="260.4 146.2 149.4 218.7 149.4 218.7" fill="transparent" stroke="#E3A6BE" class="zr2-cls-43"></polyline>
 <polyline points="296.9 136.6 157.3 204.6 157.3 204.6" fill="transparent" stroke="#BDE1ED" class="zr2-cls-43"></polyline>
 <polyline points="308.5 135.4 167.1 190.5 167.1 190.5" fill="transparent" stroke="#BBEBB2" class="zr2-cls-43"></polyline>
 <polyline points="313.8 135.1 179.1 176.4 179.1 176.4" fill="transparent" stroke="#FCF4D3" class="zr2-cls-43"></polyline>
@@ -10,8 +10,8 @@
 <polyline points="319.5 135 213.2 148.2 213.2 148.2" fill="transparent" stroke="#F4D4A7" class="zr2-cls-43"></polyline>
 <polyline points="319.8 135 255 134.1 240 134.1" fill="transparent" stroke="#EBC5C5" class="zr2-cls-43"></polyline>
 <polyline points="319.9 135 319.9 120 304.9 120" fill="transparent" stroke="#D3D3D3" class="zr2-cls-43"></polyline>
-<path d="M320 135A165 165 0 0 1 339.4 463.9L320 300Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-44 zr2-cls-45"></path>
-<path d="M339.4 463.9A165 165 0 0 1 234.4 158.9L320 300Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-46 zr2-cls-47"></path>
+<path d="M320 135A165 165 0 0 1 339.3 463.9L320 300Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-44 zr2-cls-45"></path>
+<path d="M339.3 463.9A165 165 0 0 1 234.4 158.9L320 300Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-46 zr2-cls-47"></path>
 <path d="M234.4 158.9A165 165 0 0 1 288.2 138.1L320 300Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-48 zr2-cls-49"></path>
 <path d="M288.2 138.1A165 165 0 0 1 305.6 135.6L320 300Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-50 zr2-cls-51"></path>
 <path d="M305.6 135.6A165 165 0 0 1 311.4 135.2L320 300Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-52 zr2-cls-53"></path>
@@ -20,8 +20,8 @@
 <path d="M319.3 135A165 165 0 0 1 319.7 135L320 300Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-58 zr2-cls-59"></path>
 <path d="M319.7 135A165 165 0 0 1 319.9 135L320 300Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-60 zr2-cls-61"></path>
 <path d="M319.9 135A165 165 0 0 1 320 135L320 300Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-62 zr2-cls-63"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.6879 289.4043)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 48.13%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(129.8037 358.5937)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: 4...</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.6895 289.4315)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 48.13%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(129.7964 358.5726)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: 4...</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(144.3901 218.7)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">IntelliJ IDEA: 5.59%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(152.3369 204.6)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sublime Text: 1.7%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(162.1042 190.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Figma: 0.56%</text>
