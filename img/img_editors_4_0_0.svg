@@ -1,35 +1,35 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 600">
 <rect width="800" height="600" x="0" y="0" fill="none"></rect>
-<polyline points="484.7 290.6 499.7 289.8 514.7 289.8" fill="transparent" stroke="#CFB3E8" class="zr2-cls-43"></polyline>
-<polyline points="163.9 353.3 149.7 358.2 134.7 358.2" fill="transparent" stroke="#C2C3F0" class="zr2-cls-43"></polyline>
-<polyline points="260.5 146.1 149.4 218.7 149.4 218.7" fill="transparent" stroke="#E3A6BE" class="zr2-cls-43"></polyline>
-<polyline points="297 136.6 157.3 204.6 157.3 204.6" fill="transparent" stroke="#BDE1ED" class="zr2-cls-43"></polyline>
-<polyline points="308.6 135.4 167.1 190.5 167.1 190.5" fill="transparent" stroke="#BBEBB2" class="zr2-cls-43"></polyline>
-<polyline points="313.9 135.1 179.1 176.4 179.1 176.4" fill="transparent" stroke="#FCF4D3" class="zr2-cls-43"></polyline>
+<polyline points="484.7 290.9 499.7 290.1 514.7 290.1" fill="transparent" stroke="#CFB3E8" class="zr2-cls-43"></polyline>
+<polyline points="163.7 353 149.5 357.8 134.5 357.8" fill="transparent" stroke="#C2C3F0" class="zr2-cls-43"></polyline>
+<polyline points="260.6 146.1 149.4 218.7 149.4 218.7" fill="transparent" stroke="#E3A6BE" class="zr2-cls-43"></polyline>
+<polyline points="297.1 136.6 157.3 204.6 157.3 204.6" fill="transparent" stroke="#BDE1ED" class="zr2-cls-43"></polyline>
+<polyline points="308.7 135.4 167.1 190.5 167.1 190.5" fill="transparent" stroke="#BBEBB2" class="zr2-cls-43"></polyline>
+<polyline points="314 135.1 179.1 176.4 179.1 176.4" fill="transparent" stroke="#FCF4D3" class="zr2-cls-43"></polyline>
 <polyline points="317.8 135 194 162.3 194 162.3" fill="transparent" stroke="#F2D2BA" class="zr2-cls-43"></polyline>
 <polyline points="319.5 135 213.2 148.2 213.2 148.2" fill="transparent" stroke="#F4D4A7" class="zr2-cls-43"></polyline>
 <polyline points="319.8 135 255 134.1 240 134.1" fill="transparent" stroke="#EBC5C5" class="zr2-cls-43"></polyline>
 <polyline points="319.9 135 319.9 120 304.9 120" fill="transparent" stroke="#D3D3D3" class="zr2-cls-43"></polyline>
-<path d="M320 135A165 165 0 0 1 338.7 463.9L320 300Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-44 zr2-cls-45"></path>
-<path d="M338.7 463.9A165 165 0 0 1 234.5 158.9L320 300Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-46 zr2-cls-47"></path>
-<path d="M234.5 158.9A165 165 0 0 1 288.3 138.1L320 300Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-48 zr2-cls-49"></path>
-<path d="M288.3 138.1A165 165 0 0 1 305.7 135.6L320 300Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-50 zr2-cls-51"></path>
-<path d="M305.7 135.6A165 165 0 0 1 311.5 135.2L320 300Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-52 zr2-cls-53"></path>
-<path d="M311.5 135.2A165 165 0 0 1 316.3 135L320 300Z" fill="#FCF4D3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-54 zr2-cls-55"></path>
-<path d="M316.3 135A165 165 0 0 1 319.3 135L320 300Z" fill="#F2D2BA" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-56 zr2-cls-57"></path>
+<path d="M320 135A165 165 0 0 1 338.2 464L320 300Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-44 zr2-cls-45"></path>
+<path d="M338.2 464A165 165 0 0 1 234.7 158.8L320 300Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-46 zr2-cls-47"></path>
+<path d="M234.7 158.8A165 165 0 0 1 288.4 138.1L320 300Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-48 zr2-cls-49"></path>
+<path d="M288.4 138.1A165 165 0 0 1 305.8 135.6L320 300Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-50 zr2-cls-51"></path>
+<path d="M305.8 135.6A165 165 0 0 1 311.6 135.2L320 300Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-52 zr2-cls-53"></path>
+<path d="M311.6 135.2A165 165 0 0 1 316.4 135L320 300Z" fill="#FCF4D3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-54 zr2-cls-55"></path>
+<path d="M316.4 135A165 165 0 0 1 319.3 135L320 300Z" fill="#F2D2BA" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-56 zr2-cls-57"></path>
 <path d="M319.3 135A165 165 0 0 1 319.7 135L320 300Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-58 zr2-cls-59"></path>
 <path d="M319.7 135A165 165 0 0 1 319.9 135L320 300Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-60 zr2-cls-61"></path>
 <path d="M319.9 135A165 165 0 0 1 320 135L320 300Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-62 zr2-cls-63"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.7107 289.7995)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 48.2%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(129.657 358.1658)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: 4...</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(144.3901 218.7)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">IntelliJ IDEA: 5.59%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.7264 290.0797)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 48.24%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(129.5333 357.8022)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: 4...</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(144.3901 218.7)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">IntelliJ IDEA: 5.58%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(152.3369 204.6)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sublime Text: 1.7%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(162.1042 190.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Figma: 0.56%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(174.0989 176.4)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Warp: 0.46%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(189.01 162.3)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Postman: 0.29%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(189.01 162.3)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Postman: 0.28%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(208.1757 148.2)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">WebStorm: 0.04%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(235.0078 134.1)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Chrome: 0.02%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(299.9435 120)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">PyCharm: 0.01%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(299.9434 120)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">PyCharm: 0.01%</text>
 <style ><![CDATA[
 .zr2-cls-43:hover {
 cursor:pointer;
