@@ -168,7 +168,7 @@ I am Aayush Goyal from [India 🇮🇳](https://en.wikipedia.org/wiki/India).
 **Daily Coding Average**
 <!-- WAKAWAKA_START -->
 <!-- WAKAWAKA_CONFIG__STATS_DAILY_AVG -->
-![badge](https://img.shields.io/badge/Daily%20Average-1%20hr%2053%20mins-blue)
+![badge](https://img.shields.io/badge/Daily%20Average-1%20hr%2052%20mins-blue)
 <!-- WAKAWAKA_END -->
 
 **Total Lines of Code**
