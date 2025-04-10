@@ -1,8 +1,8 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 600">
 <rect width="800" height="600" x="0" y="0" fill="none"></rect>
-<polyline points="484.6 311.7 499.6 312.7 514.6 312.7" fill="transparent" stroke="#CFB3E8" class="zr2-cls-43"></polyline>
-<polyline points="157.7 329.6 147.9 332.3 132.9 332.3" fill="transparent" stroke="#C2C3F0" class="zr2-cls-43"></polyline>
-<polyline points="264.9 144.5 149.4 218.7 149.4 218.7" fill="transparent" stroke="#E3A6BE" class="zr2-cls-43"></polyline>
+<polyline points="484.5 312.3 499.5 313.4 514.5 313.4" fill="transparent" stroke="#CFB3E8" class="zr2-cls-43"></polyline>
+<polyline points="157.5 328.8 147.8 331.4 132.8 331.4" fill="transparent" stroke="#C2C3F0" class="zr2-cls-43"></polyline>
+<polyline points="265.1 144.4 149.4 218.7 149.4 218.7" fill="transparent" stroke="#E3A6BE" class="zr2-cls-43"></polyline>
 <polyline points="298.8 136.4 157.3 204.6 157.3 204.6" fill="transparent" stroke="#BDE1ED" class="zr2-cls-43"></polyline>
 <polyline points="309.5 135.3 167.1 190.5 167.1 190.5" fill="transparent" stroke="#BBEBB2" class="zr2-cls-43"></polyline>
 <polyline points="314.5 135.1 179.1 176.4 179.1 176.4" fill="transparent" stroke="#FCF4D3" class="zr2-cls-43"></polyline>
@@ -10,26 +10,26 @@
 <polyline points="319.6 135 213.2 148.2 213.2 148.2" fill="transparent" stroke="#F4D4A7" class="zr2-cls-43"></polyline>
 <polyline points="319.8 135 255 134.1 240 134.1" fill="transparent" stroke="#EBC5C5" class="zr2-cls-43"></polyline>
 <polyline points="319.9 135 319.9 120 304.9 120" fill="transparent" stroke="#D3D3D3" class="zr2-cls-43"></polyline>
-<path d="M320 135A165 165 0 1 1 296.8 463.4L320 300Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-44 zr2-cls-45"></path>
-<path d="M296.8 463.4A165 165 0 0 1 240.6 155.4L320 300Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-46 zr2-cls-47"></path>
-<path d="M240.6 155.4A165 165 0 0 1 290.7 137.6L320 300Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-48 zr2-cls-49"></path>
-<path d="M290.7 137.6A165 165 0 0 1 306.8 135.5L320 300Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-50 zr2-cls-51"></path>
+<path d="M320 135A165 165 0 1 1 295.5 463.2L320 300Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-44 zr2-cls-45"></path>
+<path d="M295.5 463.2A165 165 0 0 1 240.9 155.2L320 300Z" fill="#C2C3F0" ecmeta_series_index="0" ecmeta_data_index="1" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-46 zr2-cls-47"></path>
+<path d="M240.9 155.2A165 165 0 0 1 290.8 137.6L320 300Z" fill="#E3A6BE" ecmeta_series_index="0" ecmeta_data_index="2" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-48 zr2-cls-49"></path>
+<path d="M290.8 137.6A165 165 0 0 1 306.8 135.5L320 300Z" fill="#BDE1ED" ecmeta_series_index="0" ecmeta_data_index="3" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-50 zr2-cls-51"></path>
 <path d="M306.8 135.5A165 165 0 0 1 312.2 135.2L320 300Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-52 zr2-cls-53"></path>
 <path d="M312.2 135.2A165 165 0 0 1 316.7 135L320 300Z" fill="#FCF4D3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-54 zr2-cls-55"></path>
 <path d="M316.7 135A165 165 0 0 1 319.4 135L320 300Z" fill="#F2D2BA" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-56 zr2-cls-57"></path>
 <path d="M319.4 135A165 165 0 0 1 319.8 135L320 300Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-58 zr2-cls-59"></path>
 <path d="M319.8 135A165 165 0 0 1 319.9 135L320 300Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-60 zr2-cls-61"></path>
 <path d="M319.9 135A165 165 0 0 1 320 135L320 300Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-62 zr2-cls-63"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.5505 312.7129)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 52.25%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(127.9187 332.2833)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: ...</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(144.3901 218.7)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">IntelliJ IDEA: 5.15%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(152.3369 204.6)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sublime Text: 1.57%</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.4991 313.4192)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 52.37%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(127.7641 331.4237)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: ...</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(144.3901 218.7)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">IntelliJ IDEA: 5.13%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(152.3369 204.6)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sublime Text: 1.56%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(162.1042 190.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Figma: 0.52%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(174.0989 176.4)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Warp: 0.43%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(189.01 162.3)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Postman: 0.26%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(208.1757 148.2)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">WebStorm: 0.04%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(235.0078 134.1)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Chrome: 0.01%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(299.9435 120)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">PyCharm: 0.01%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(299.9434 120)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">PyCharm: 0.01%</text>
 <style ><![CDATA[
 .zr2-cls-43:hover {
 cursor:pointer;
