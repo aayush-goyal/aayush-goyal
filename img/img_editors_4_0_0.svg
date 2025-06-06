@@ -1,6 +1,6 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 800 600">
 <rect width="800" height="600" x="0" y="0" fill="none"></rect>
-<polyline points="484.4 313.8 499.4 315 514.4 315" fill="transparent" stroke="#CFB3E8" class="zr2-cls-43"></polyline>
+<polyline points="484.4 313.8 499.4 315.1 514.4 315.1" fill="transparent" stroke="#CFB3E8" class="zr2-cls-43"></polyline>
 <polyline points="157.2 327 147.4 329.5 132.4 329.5" fill="transparent" stroke="#C2C3F0" class="zr2-cls-43"></polyline>
 <polyline points="265.6 144.2 149.4 218.7 149.4 218.7" fill="transparent" stroke="#E3A6BE" class="zr2-cls-43"></polyline>
 <polyline points="299.1 136.3 157.3 204.6 157.3 204.6" fill="transparent" stroke="#BDE1ED" class="zr2-cls-43"></polyline>
@@ -20,8 +20,8 @@
 <path d="M319.4 135A165 165 0 0 1 319.8 135L320 300Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-58 zr2-cls-59"></path>
 <path d="M319.8 135A165 165 0 0 1 319.9 135L320 300Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-60 zr2-cls-61"></path>
 <path d="M319.9 135A165 165 0 0 1 320 135L320 300Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" transform-origin="320px 300px" class="zr2-cls-62 zr2-cls-63"></path>
-<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.3716 315.0274)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 52.65%</text>
-<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(127.4344 329.5037)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: ...</text>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(519.3691 315.0571)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">VS Code: 52.65%</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(127.4303 329.4787)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Android Studio: ...</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(144.3901 218.7)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">IntelliJ IDEA: 5.1%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(152.3369 204.6)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Sublime Text: 1.55%</text>
 <text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:Manrope;" xml:space="preserve" transform="translate(162.1042 190.5)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">Figma: 0.51%</text>

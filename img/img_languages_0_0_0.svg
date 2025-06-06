@@ -43,7 +43,7 @@
 <polyline points="383.1 355.7 383.1 355.7 383.1 355.7" fill="transparent" stroke="#BBEBB2" class="zr0-cls-1"></polyline>
 <polyline points="443.8 473.4 443.8 473.4 443.8 473.4" fill="transparent" stroke="#FCF4D3" class="zr0-cls-1"></polyline>
 <polyline points="507.8 500.8 507.8 500.8 507.8 500.8" fill="transparent" stroke="#F2D2BA" class="zr0-cls-1"></polyline>
-<polyline points="571.8 508.6 571.8 508.6 571.8 508.6" fill="transparent" stroke="#F4D4A7" class="zr0-cls-1"></polyline>
+<polyline points="576.8 502.8 576.8 502.8 576.8 502.8" fill="transparent" stroke="#F4D4A7" class="zr0-cls-1"></polyline>
 <polyline points="635.8 509.7 635.8 509.7 635.8 509.7" fill="transparent" stroke="#EBC5C5" class="zr0-cls-1"></polyline>
 <polyline points="699.8 510.8 699.8 510.8 699.8 510.8" fill="transparent" stroke="#D3D3D3" class="zr0-cls-1"></polyline>
 <path d="M89.9 530l44.2 0l0 -412.7l-44.2 0Z" fill="#CFB3E8" ecmeta_series_index="0" ecmeta_data_index="0" ecmeta_ssr_type="chart" class="zr0-cls-2 zr0-cls-3"></path>
@@ -53,7 +53,7 @@
 <path d="M345.9 530l44.2 0l0 -181.3l-44.2 0Z" fill="#BBEBB2" ecmeta_series_index="0" ecmeta_data_index="4" ecmeta_ssr_type="chart" class="zr0-cls-10 zr0-cls-11"></path>
 <path d="M409.9 530l44.2 0l0 -63.6l-44.2 0Z" fill="#FCF4D3" ecmeta_series_index="0" ecmeta_data_index="5" ecmeta_ssr_type="chart" class="zr0-cls-12 zr0-cls-13"></path>
 <path d="M473.9 530l44.2 0l0 -36.2l-44.2 0Z" fill="#F2D2BA" ecmeta_series_index="0" ecmeta_data_index="6" ecmeta_ssr_type="chart" class="zr0-cls-14 zr0-cls-15"></path>
-<path d="M537.9 530l44.2 0l0 -28.4l-44.2 0Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr0-cls-16 zr0-cls-17"></path>
+<path d="M537.9 530l44.2 0l0 -28.2l-44.2 0Z" fill="#F4D4A7" ecmeta_series_index="0" ecmeta_data_index="7" ecmeta_ssr_type="chart" class="zr0-cls-16 zr0-cls-17"></path>
 <path d="M601.9 530l44.2 0l0 -27.3l-44.2 0Z" fill="#EBC5C5" ecmeta_series_index="0" ecmeta_data_index="8" ecmeta_ssr_type="chart" class="zr0-cls-18 zr0-cls-19"></path>
 <path d="M665.9 530l44.2 0l0 -26.2l-44.2 0Z" fill="#D3D3D3" ecmeta_series_index="0" ecmeta_data_index="9" ecmeta_ssr_type="chart" class="zr0-cls-20 zr0-cls-21"></path>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(112 112.34)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">26.34</text>
@@ -63,7 +63,7 @@
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(368 343.7367)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">11.57</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(432 461.3933)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">4.06</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(496 488.81)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">2.31</text>
-<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(560 496.6433)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1.81</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(560 496.8)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1.8</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(624 497.74)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1.74</text>
 <text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:Manrope;" y="-6" transform="translate(688 498.8367)" fill="#333" stroke="rgb(255,255,255)" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">1.67</text>
 <style ><![CDATA[
@@ -204,7 +204,7 @@ d:path("M473.9 530l44.2 0l0 -36.2l-44.2 0Z");
 d:path("M537.9 530l44.2 0l0 0l-44.2 0Z");
 }
 100% {
-d:path("M537.9 530l44.2 0l0 -28.4l-44.2 0Z");
+d:path("M537.9 530l44.2 0l0 -28.2l-44.2 0Z");
 }
 }
 @keyframes zr0-ani-8 {
